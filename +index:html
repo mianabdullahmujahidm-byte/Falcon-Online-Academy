@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Falcon Online Academy</title>
+<style>
+</head>
+<body>
+<header>
+<h1>Falcon Online Academy</h1>
+<p>Learn With Confidence - Ghar Bethe Online Parho</p>
+<a class="btn" href="#">Join Now</a>
+<a class="btn" href="#">WhatsApp Karein</a>
+</header>
+<div class="box">
+<h2>Hamare Courses</h2>
+<p>Quran-e-Pak with Tajweed</p>
+<p>English Speaking Course</p>
+<p>Math & Science (Class 1 to 10)</p>
+<p>Computer & AI Course</p>
+</div>
+<div class="box">
+<h2>Kyun Falcon Academy?</h2>
+<p>100% Online Classes</p>
+<p>Experienced Teachers</p>
+<p>Kam Fees, Achi Parhai</p>
+</div>
+<div class="box">
+<h2>Admission Ke Liye Rabta Karein</h2>
+<p>WhatsApp: 0300-1234567</p>
+<p>Apna Naam Aur Class Bhejein</p>
+</div>
+<footer><p>© 2026 Falcon Online Academy</p></footer>
+</body>
+</html>
